@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Devon 👋
 
-<!--
-**devoncode219/devoncode219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student based in Sydney. Currently spending most of my time wrangling pointers in C++, writing small Python scripts to automate daily stuff, and grinding through university assignments.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🔭 Building: Basic custom shell implementation and small CLI tools
+- 🌱 Learning: Systems programming, memory management, and concurrency in Java
+- 💻 Environment: Linux daily driver, Git CLI, Make
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Languages:** Python, Java, C++, C, Bash
+- **Tools:** Git, Linux, GDB, VS Code, Vim
+
+#### Contact
+- Email: `devoncode219@gmail.com`
+- LinkedIn: [linkedin.com/in/devoncode219](#)
